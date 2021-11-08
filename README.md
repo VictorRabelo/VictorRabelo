@@ -14,7 +14,7 @@
   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Victor-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="right" alt="Victor-pic" height="150" style="border-radius:100px;" src="https://github.com/VictorRabelo/VictorRabelo/blob/main/avatar.png">
+  <img align="right" alt="Victor-pic" height="150" style="border-radius:100px;" src="https://github.com/VictorRabelo/VictorRabelo/blob/main/dev.gif">
 </div>
   
   ##
