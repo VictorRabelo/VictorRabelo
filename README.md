@@ -1,4 +1,4 @@
-## Oiii eu sou o Victor Rabelo, desenvolvedor Full-Stack!
+## Oii, eu sou o Victor Rabelo, Desenvolvedor Full-Stack! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> :nerd_face:</h2>
 <div align="center">
   <a href="https://github.com/VictorRabelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorRabelo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
