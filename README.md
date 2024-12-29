@@ -11,10 +11,10 @@
 ## About Me 🌟
 Hello! I'm **Victor Rabelo**, a passionate Full-Stack Developer who loves solving problems and creating impactful software solutions. I'm always exploring new technologies and finding fun, efficient ways to bring ideas to life. 🚀
 
-- 👨‍💻 **Technologies**: Angular, Laravel, Ionic, PHP, JavaScript, TypeScript
-- 🌱 **Learning**: Flutter and Python
+- 👨‍💻 **Technologies**: Angular, Laravel, Symfony, Ionic, PHP, JavaScript, TypeScript, NodeJS
+- 🌱 **Learning**: Flutter, Python, Java and C# 
 - 🧑‍🎓 **Education**: Software Engineering at Estácio
-- 🕹️ **Hobbies**: Gaming, solving puzzles, and staying hydrated 💧
+- 🕹️ **Hobbies**: Play chess, solving puzzles, and staying hydrated 💧
 
 ---
 
@@ -36,6 +36,9 @@ Hello! I'm **Victor Rabelo**, a passionate Full-Stack Developer who loves solvin
   <img align="center" alt="Victor-Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel">
   <img align="center" alt="Victor-Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular">
   <img align="center" alt="Victor-Ionic" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" title="Ionic">
+  <img align="center" alt="Victor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" title="Java">
+  <img align="center" alt="Victor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python">
+  <img align="center" alt="Victor-C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" title="C#">
 </div>
 
 ---
