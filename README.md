@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Victor+Rabelo!;Full-Stack+Developer;Code+%3D+Life;Welcome+to+my+GitHub+Profile!;Feel+free+to+explore+my+repos!" alt="Typing SVG">
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200" alt="Coding GIF">
 </div>
 
