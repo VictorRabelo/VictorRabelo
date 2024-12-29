@@ -28,8 +28,8 @@ Hello! I'm **Victor Rabelo**, a passionate Full-Stack Developer who loves solvin
 
 ## ⚡ Skills
 <div style="display: flex; justify-content: center;">
-  <img align="center" alt="Victor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="Victor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+  <img align="center" alt="Victor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" style="margin-right: 5px;">
+  <img align="center" alt="Victor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" style="margin-right: 5px;">
   <img align="center" alt="Victor-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img align="center" alt="Victor-TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
   <img align="center" alt="Victor-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
