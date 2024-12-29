@@ -16,7 +16,7 @@
   <img align="center" alt="Victor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img align="center" alt="Victor-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
   <img align="center" alt="Victor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
-  <img align="center" alt="Victor-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" title="Laravel">
+  <img align="center" alt="Victor-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel">
   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular">
   <img align="center" alt="Victor-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js">
   <img align="center" alt="Victor-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" title="Ionic">
@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  ![Snake animation](https://github.com/VictorRabelo/VictorRabelo/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/VictorRabelo/VictorRabelo/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
