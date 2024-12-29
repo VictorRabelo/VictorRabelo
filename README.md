@@ -30,19 +30,19 @@ Hello! I'm **Victor Rabelo**, a passionate Full-Stack Developer who loves solvin
 <div style="display: flex; justify-content: center;">
   <img align="center" alt="Victor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" style="margin-right: 5px;">
   <img align="center" alt="Victor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" style="margin-right: 5px;">
-  <img align="center" alt="Victor-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="Victor-TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
-  <img align="center" alt="Victor-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
-  <img align="center" alt="Victor-Laravel" height="40" width="40" src="https://laravel.com/img/logomark.min.svg" title="Laravel">
-  <img align="center" alt="Victor-Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular">
-  <img align="center" alt="Victor-Ionic" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" title="Ionic">
-  <img align="center" alt="Victor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" title="Java">
-  <img align="center" alt="Victor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python">
-  <img align="center" alt="Victor-C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" title="C#">
-  <img align="center" alt="Victor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" title="Flutter">
-  <img align="center" alt="Victor-OracleDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="OracleDB">
-  <img align="center" alt="Victor-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-  <img align="center" alt="Victor-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+  <img align="center" alt="Victor-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript" style="margin-right: 5px;">
+  <img align="center" alt="Victor-TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" style="margin-right: 5px;">
+  <img align="center" alt="Victor-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" style="margin-right: 5px;">
+  <img align="center" alt="Victor-Laravel" height="40" width="40" src="https://laravel.com/img/logomark.min.svg" title="Laravel" style="margin-right: 5px;">
+  <img align="center" alt="Victor-Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" style="margin-right: 5px;">
+  <img align="center" alt="Victor-Ionic" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" title="Ionic" style="margin-right: 5px;">
+  <img align="center" alt="Victor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" title="Java" style="margin-right: 5px;">
+  <img align="center" alt="Victor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python" style="margin-right: 5px;">
+  <img align="center" alt="Victor-C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" title="C#" style="margin-right: 5px;">
+  <img align="center" alt="Victor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" title="Flutter" style="margin-right: 5px;">
+  <img align="center" alt="Victor-OracleDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="OracleDB" style="margin-right: 5px;">
+  <img align="center" alt="Victor-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="margin-right: 5px;">
+  <img align="center" alt="Victor-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="margin-right: 5px;">
 </div>
 
 ---
