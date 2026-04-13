@@ -35,6 +35,7 @@ Hello! I'm **Victor Rabelo**, a passionate Full-Stack Developer who loves solvin
   <img align="center" alt="Victor-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
   <img align="center" alt="Victor-Laravel" height="40" width="40" src="https://laravel.com/img/logomark.min.svg" title="Laravel">
   <img align="center" alt="Victor-Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular">
+  <img align="center" alt="Victor-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React&ReactNative">
   <img align="center" alt="Victor-Ionic" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" title="Ionic">
   <img align="center" alt="Victor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" title="Java">
   <img align="center" alt="Victor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python">
