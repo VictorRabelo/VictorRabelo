@@ -11,8 +11,8 @@
 ## About Me 🌟
 Hello! I'm **Victor Rabelo**, a passionate Full-Stack Developer who loves solving problems and creating impactful software solutions. I'm always exploring new technologies and finding fun, efficient ways to bring ideas to life. 🚀
 
-- 👨‍💻 **Technologies**: Angular, Laravel, Symfony, Ionic, PHP, JavaScript, TypeScript, NodeJS
-- 🌱 **Learning**: Flutter, Python, Java and C# 
+- 👨‍💻 **Technologies**: PHP, JavaScript, TypeScript, NodeJS, Python, Angular, React, Laravel, Symfony, Ionic, React Native
+- 🌱 **Learning**: Flutter, Java and C# 
 - 🧑‍🎓 **Education**: Software Engineering at Estácio
 - 🕹️ **Hobbies**: Play chess, solving puzzles, and staying hydrated 💧
 
